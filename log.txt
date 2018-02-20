@@ -1,0 +1,56 @@
+
+C
+CLast command executed
+node liri.js my-tweets
+
+=======================================================
+
+=======================================================
+Last command executed
+node liri.js spotify-this-song shining
+
+=======================================================
+
+Song Name: Shining
+Album: Grateful
+Preview URL: https://p.scdn.co/mp3-preview/4bacccc2d1afd14723d954f6141acbaedc03e7a3?cid=e012f8b22e1c46f1918d11b07b922914
+Artists: 
+DJ Khaled
+Beyoncé
+JAY Z
+Song Name: Shining
+Album: The Reason EP
+Preview URL: No preview link returned
+Artists: 
+X Ambassadors
+Song Name: Shining
+Album: Shining
+Preview URL: https://p.scdn.co/mp3-preview/84c72b7d5fbd7ad21e4f1cd020547f279436cce0?cid=e012f8b22e1c46f1918d11b07b922914
+Artists: 
+Sammy Adams
+Song Name: Shining
+Album: Shining
+Preview URL: https://p.scdn.co/mp3-preview/d52e4f2655302a3f7a5481bd1f0843b6d623f4e5?cid=e012f8b22e1c46f1918d11b07b922914
+Artists: 
+Arizona Zervas
+Song Name: Shining
+Album: Grateful
+Preview URL: https://p.scdn.co/mp3-preview/3a8819fc8323916e4b41600302169a6a262b3a5a?cid=e012f8b22e1c46f1918d11b07b922914
+Artists: 
+DJ Khaled
+Beyoncé
+JAY Z
+=======================================================
+Last command executed
+node liri.js movie-this selena
+
+==============================================
+Title of the movie: Selena
+The movie was released in: 1997
+IMDB Rating of the movie: 6.7
+Rotten Tomatoes Rating of the movie: 65%
+Country where the movie was produced: USA,Language of the movie: English, Spanish
+Plot of the movie: The true story of Selena Quintanilla-Perez, a Texas-born Tejano singer who rose from cult status to performing at the Astrodome, as well as having chart topping albums on the Latin music charts.
+Actors in the movie: Jennifer Lopez, Jackie Guerra, Constance Marie, Alex Meneses
+
+==============================================
